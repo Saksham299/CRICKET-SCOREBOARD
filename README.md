@@ -1,8 +1,10 @@
 # Cricket Scoreboard – C Project
 
+
 ## Overview
-Yeh project C language me banaya gaya ek cricket scoreboard system hai.
-User runs, wickets, balls aur overs update kar sakta hai. System CRR bhi calculate karta hai.
+This project is a simple and interactive application built using C. 
+It demonstrates basic concepts such as file handling, loops, conditions, and modular programming. 
+The purpose of this project is to provide hands-on learning and improve understanding of C programming.
 
 ## Features
 - Add Runs (1,2,3,4,6)
