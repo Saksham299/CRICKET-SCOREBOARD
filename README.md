@@ -38,5 +38,5 @@ gcc main.c scoreboard.c -o ../bin/cricket
 All program output screenshots are available in docs/OutputScreenshots/ folder.
 
 ## Author
-Saksham
+Saksham and
 Ananya
